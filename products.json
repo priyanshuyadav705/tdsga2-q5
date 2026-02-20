@@ -135,25 +135,25 @@
 ]
 ,
     "aggregations": {
-        "home": {
-            "count": 3,
-            "inventoryValue": 85353.16
-        },
-        "electronics": {
-            "count": 2,
-            "inventoryValue": 59534.94
-        },
-        "sports": {
-            "count": 5,
-            "inventoryValue": 149091.39
-        },
-        "books": {
-            "count": 4,
-            "inventoryValue": 102728.28
-        },
-        "clothing": {
-            "count": 4,
-            "inventoryValue": 40515.16
-        }
-    }
+  "clothing": {
+    "count": 4,
+    "inventoryValue": 61023.66
+  },
+  "home": {
+    "count": 3,
+    "inventoryValue": 92026.28
+  },
+  "electronics": {
+    "count": 3,
+    "inventoryValue": 106120.7
+  },
+  "sports": {
+    "count": 1,
+    "inventoryValue": 43307.46
+  },
+  "books": {
+    "count": 5,
+    "inventoryValue": 81658.62
+  }
+}
 }
